@@ -1,0 +1,28 @@
+body{background-color: green;
+    } 
+.card{background-color: white;
+ width: 350px;
+ height: 490px;
+ margin:auto;
+ border-radius: 5%;
+}
+.card-top{
+font-size: 100px;
+color: red;
+padding: 15px;
+padding-top: 0;
+}
+.card-center{
+    text-align: center; 
+    padding-top: 10%;
+    font-size: 100px;
+    padding-bottom: 90px;
+}
+.card-bottom{
+    float: right;
+    font-size: 100px;
+    color: red;
+    padding: 15px;
+    padding-bottom:15px;
+    transform: rotate(180deg);
+}
